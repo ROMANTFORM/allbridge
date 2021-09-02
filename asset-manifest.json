@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/allbridge/static/css/main.43b39623.chunk.css",
-    "main.js": "/allbridge/static/js/main.1ea1fe9c.chunk.js",
-    "main.js.map": "/allbridge/static/js/main.1ea1fe9c.chunk.js.map",
+    "main.css": "/allbridge/static/css/main.b9f4bc71.chunk.css",
+    "main.js": "/allbridge/static/js/main.8413d2ed.chunk.js",
+    "main.js.map": "/allbridge/static/js/main.8413d2ed.chunk.js.map",
     "runtime-main.js": "/allbridge/static/js/runtime-main.42fe90ce.js",
     "runtime-main.js.map": "/allbridge/static/js/runtime-main.42fe90ce.js.map",
     "static/js/2.3ba357a5.chunk.js": "/allbridge/static/js/2.3ba357a5.chunk.js",
     "static/js/2.3ba357a5.chunk.js.map": "/allbridge/static/js/2.3ba357a5.chunk.js.map",
     "index.html": "/allbridge/index.html",
-    "static/css/main.43b39623.chunk.css.map": "/allbridge/static/css/main.43b39623.chunk.css.map",
+    "static/css/main.b9f4bc71.chunk.css.map": "/allbridge/static/css/main.b9f4bc71.chunk.css.map",
     "static/js/2.3ba357a5.chunk.js.LICENSE.txt": "/allbridge/static/js/2.3ba357a5.chunk.js.LICENSE.txt",
-    "static/media/Main.css": "/allbridge/static/media/solana.849b9972.svg"
+    "static/media/Main.css": "/allbridge/static/media/solana.849b9972.svg",
+    "static/media/HAPI_Prize.af425b8a.png": "/allbridge/static/media/HAPI_Prize.af425b8a.png",
+    "static/media/Velas_Prize.b32dba53.png": "/allbridge/static/media/Velas_Prize.b32dba53.png",
+    "static/media/Footer.css": "/allbridge/static/media/twitter.8a578754.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.42fe90ce.js",
     "static/js/2.3ba357a5.chunk.js",
-    "static/css/main.43b39623.chunk.css",
-    "static/js/main.1ea1fe9c.chunk.js"
+    "static/css/main.b9f4bc71.chunk.css",
+    "static/js/main.8413d2ed.chunk.js"
   ]
 }
