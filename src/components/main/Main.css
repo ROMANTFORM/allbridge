@@ -1,0 +1,58 @@
+.wrapper {
+  width: 1170px;
+
+  display: flex;
+  justify-content: space-evenly;
+}
+.Text-wrapper {
+  width: 50%;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Text {
+  font-size: 50px;
+  line-height: 80px;
+}
+.Text-span {
+  color: #8c86f5;
+}
+.Card {
+  width: 180px;
+  height: 180px;
+  background-color: #e5ecf4;
+  border-radius: 10px;
+}
+.Cards-wrapper {
+  width: 40%;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.Card1 {
+  background-image: url(../../img/ethereum.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.Card2 {
+  background-image: url(../../img/heco.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.Card3 {
+  background-image: url(../../img/polygon.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.Card4 {
+  background-image: url(../../img/solana.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.Card5 {
+  background-image: url(../../img/BSC.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
