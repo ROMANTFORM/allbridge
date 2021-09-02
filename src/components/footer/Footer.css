@@ -1,0 +1,67 @@
+.footer-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn-wrapper__button {
+  border: none;
+  background: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+.btn-wrapper {
+  width: 900px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 40px;
+}
+.btn-wrapper__button:hover {
+  opacity: 0.5;
+}
+.icon-wrapper {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.icon1 {
+  width: 45px;
+  height: 45px;
+  background-image: url(../../img/icons/gitbook.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.icon2 {
+  width: 45px;
+  height: 45px;
+  background-image: url(../../img/icons/github.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.icon3 {
+  width: 45px;
+  height: 45px;
+  background-image: url(../../img/icons/medium.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.icon4 {
+  width: 45px;
+  height: 45px;
+  background-image: url(../../img/icons/telegram.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.icon5 {
+  width: 45px;
+  height: 45px;
+  background-image: url(../../img/icons/twitter.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.icon:hover {
+  opacity: 0.5;
+  transition: all 300ms linear;
+}

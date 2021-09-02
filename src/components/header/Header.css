@@ -9,6 +9,10 @@
 .Logo-link {
   cursor: pointer;
 }
+.Logo-link:hover {
+  opacity: 0.5;
+  transition: all 300ms linear;
+}
 
 .First-text {
   font-size: 46px;
@@ -33,4 +37,8 @@
 .Header-btn:hover {
   background-color: #8c86f5;
   transition: all 300ms linear;
+}
+.logo-btn {
+  border: none;
+  background: none;
 }

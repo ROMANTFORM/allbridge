@@ -12,12 +12,18 @@ class Main extends Component{
                         <span className="Text-span"> various blockchains</span>
                     </p>
                 </div>
+    
                 <div className="Cards-wrapper">
-                    <div className="Card1 Card"></div>
-                    <div className="Card2 Card"></div>
-                    <div className="Card3 Card"></div>
-                    <div className="Card4 Card"></div>
-                    <div className="Card5 Card"></div>
+                    <div className="Cards-wrapper1">
+                        <div className="Card1 Card"></div>
+                        <div className="Card2 Card"></div>
+                        <div className="Card3 Card"></div> 
+                    </div>
+                    <div className="Cards-wrapper2">
+                       <div className="Card4 Card"></div>
+                        <div className="Card5 Card"></div> 
+                    </div>
+                    
                 </div>
             </div>
         )

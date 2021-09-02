@@ -9,10 +9,10 @@ class Header extends Component{
             <div className="Main-wrapper">
                 <div className="Header">
                     <div className="Logo-link">
-                        <a><span className="First-text">all</span>
+                        <button className="logo-btn"><span className="First-text">all</span>
                         <span className="Second-text">bridge</span>
                         <br/>
-                    <span className="Other-text">by APYSwap Foundation</span></a>
+                    <span className="Other-text">by APYSwap Foundation</span></button>
                     
                 </div>
                 <button className="Header-btn">transfer assets</button>

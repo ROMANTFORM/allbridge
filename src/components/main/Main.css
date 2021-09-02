@@ -1,6 +1,6 @@
 .wrapper {
   width: 1170px;
-
+  margin-bottom: 100px;
   display: flex;
   justify-content: space-evenly;
 }
@@ -24,11 +24,23 @@
   background-color: #e5ecf4;
   border-radius: 10px;
 }
+
 .Cards-wrapper {
-  width: 40%;
+  width: 35%;
   height: 600px;
   display: flex;
+  justify-content: space-around;
+}
+.Cards-wrapper1 {
+  display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.Cards-wrapper2 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
   justify-content: space-evenly;
 }
 .Card1 {
